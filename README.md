@@ -115,4 +115,3 @@ This project is released for educational use only. Use responsibly.
 **Security is a mindset, not just code.**
 
 ---
-```
