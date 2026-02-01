@@ -1,6 +1,6 @@
 # 🔐 Secure Login System with Attack Prevention
 
-A secure authentication system built using Python Flask as part of a **Cybersecurity Internship Task**.  
+A secure authentication system built using Python Flask.  
 This project focuses on implementing **secure login mechanisms** and **basic attack prevention techniques** in a clear and educational way.
 
 ---
@@ -64,7 +64,7 @@ http://127.0.0.1:5000
 * Register a new user account
 * Login using registered credentials
 * Trigger account lockout by entering incorrect passwords multiple times
-* Observe lockout behavior and secure error handling
+* Observe lockout behaviour and secure error handling
 
 ---
 
